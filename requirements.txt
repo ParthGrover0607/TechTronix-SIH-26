@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+networkx
+torch
+torch-geometric
+xgboost
+shap
+scikit-learn
+matplotlib
